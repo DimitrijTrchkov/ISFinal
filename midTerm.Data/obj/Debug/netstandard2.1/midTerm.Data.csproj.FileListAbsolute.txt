@@ -1,0 +1,45 @@
+C:\repos\uacsIS\midTerm.Data\bin\Debug\netstandard2.1\midTerm.Data.deps.json
+C:\repos\uacsIS\midTerm.Data\bin\Debug\netstandard2.1\midTerm.Data.dll
+C:\repos\uacsIS\midTerm.Data\bin\Debug\netstandard2.1\midTerm.Data.pdb
+C:\repos\uacsIS\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.csprojAssemblyReference.cache
+C:\repos\uacsIS\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.AssemblyInfoInputs.cache
+C:\repos\uacsIS\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.AssemblyInfo.cs
+C:\repos\uacsIS\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.csproj.CoreCompileInputs.cache
+C:\repos\uacsIS\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.dll
+C:\repos\uacsIS\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.pdb
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Data\bin\Debug\netstandard2.1\midTerm.Data.deps.json
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Data\bin\Debug\netstandard2.1\midTerm.Data.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Data\bin\Debug\netstandard2.1\midTerm.Data.pdb
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.csprojAssemblyReference.cache
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.AssemblyInfoInputs.cache
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.AssemblyInfo.cs
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.csproj.CoreCompileInputs.cache
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.pdb
+C:\Users\dimit\Downloads\2021\final\midTerm.Data\bin\Debug\netstandard2.1\midTerm.Data.deps.json
+C:\Users\dimit\Downloads\2021\final\midTerm.Data\bin\Debug\netstandard2.1\midTerm.Data.dll
+C:\Users\dimit\Downloads\2021\final\midTerm.Data\bin\Debug\netstandard2.1\midTerm.Data.pdb
+C:\Users\dimit\Downloads\2021\final\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.csprojAssemblyReference.cache
+C:\Users\dimit\Downloads\2021\final\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.AssemblyInfoInputs.cache
+C:\Users\dimit\Downloads\2021\final\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.AssemblyInfo.cs
+C:\Users\dimit\Downloads\2021\final\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Downloads\2021\final\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.dll
+C:\Users\dimit\Downloads\2021\final\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.pdb
+D:\Downloads\2021 (1)\2021\final\midTerm.Data\bin\Debug\netstandard2.1\midTerm.Data.deps.json
+D:\Downloads\2021 (1)\2021\final\midTerm.Data\bin\Debug\netstandard2.1\midTerm.Data.dll
+D:\Downloads\2021 (1)\2021\final\midTerm.Data\bin\Debug\netstandard2.1\midTerm.Data.pdb
+D:\Downloads\2021 (1)\2021\final\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.csprojAssemblyReference.cache
+D:\Downloads\2021 (1)\2021\final\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.AssemblyInfoInputs.cache
+D:\Downloads\2021 (1)\2021\final\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.AssemblyInfo.cs
+D:\Downloads\2021 (1)\2021\final\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.csproj.CoreCompileInputs.cache
+D:\Downloads\2021 (1)\2021\final\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.dll
+D:\Downloads\2021 (1)\2021\final\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.pdb
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Data\bin\Debug\netstandard2.1\midTerm.Data.deps.json
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Data\bin\Debug\netstandard2.1\midTerm.Data.dll
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Data\bin\Debug\netstandard2.1\midTerm.Data.pdb
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.csprojAssemblyReference.cache
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.AssemblyInfoInputs.cache
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.AssemblyInfo.cs
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.csproj.CoreCompileInputs.cache
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.dll
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.pdb

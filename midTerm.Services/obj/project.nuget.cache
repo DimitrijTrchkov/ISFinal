@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "B4IXS+r1ETO8NKpYgUZVAiI2geN2nRpwaOdrSfF8UkEQoLeVcCE6IoSP4zZurBxW0lwb+hoyj2njIToX0xpqag==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\dimit\\Downloads\\2021\\final\\midTerm.Services\\midTerm.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\dimit\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project midTerm.Data is not compatible with net50 (.NETFramework,Version=v5.0). Project midTerm.Data supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "midTerm.Data",
+      "targetGraphs": [
+        ".NETFramework,Version=v5.0"
+      ]
+    }
+  ]
+}

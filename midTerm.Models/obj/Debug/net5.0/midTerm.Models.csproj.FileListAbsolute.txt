@@ -1,0 +1,30 @@
+D:\Downloads\2021 (1)\2021\final\midTerm.Models\bin\Debug\net5.0\midTerm.Models.deps.json
+D:\Downloads\2021 (1)\2021\final\midTerm.Models\bin\Debug\net5.0\midTerm.Models.dll
+D:\Downloads\2021 (1)\2021\final\midTerm.Models\bin\Debug\net5.0\ref\midTerm.Models.dll
+D:\Downloads\2021 (1)\2021\final\midTerm.Models\bin\Debug\net5.0\midTerm.Models.pdb
+D:\Downloads\2021 (1)\2021\final\midTerm.Models\bin\Debug\net5.0\midTerm.Data.dll
+D:\Downloads\2021 (1)\2021\final\midTerm.Models\bin\Debug\net5.0\midTerm.Data.pdb
+D:\Downloads\2021 (1)\2021\final\midTerm.Models\obj\Debug\net5.0\midTerm.Models.csprojAssemblyReference.cache
+D:\Downloads\2021 (1)\2021\final\midTerm.Models\obj\Debug\net5.0\midTerm.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\2021 (1)\2021\final\midTerm.Models\obj\Debug\net5.0\midTerm.Models.AssemblyInfoInputs.cache
+D:\Downloads\2021 (1)\2021\final\midTerm.Models\obj\Debug\net5.0\midTerm.Models.AssemblyInfo.cs
+D:\Downloads\2021 (1)\2021\final\midTerm.Models\obj\Debug\net5.0\midTerm.Models.csproj.CoreCompileInputs.cache
+D:\Downloads\2021 (1)\2021\final\midTerm.Models\obj\Debug\net5.0\midTerm.Models.csproj.CopyComplete
+D:\Downloads\2021 (1)\2021\final\midTerm.Models\obj\Debug\net5.0\midTerm.Models.dll
+D:\Downloads\2021 (1)\2021\final\midTerm.Models\obj\Debug\net5.0\ref\midTerm.Models.dll
+D:\Downloads\2021 (1)\2021\final\midTerm.Models\obj\Debug\net5.0\midTerm.Models.pdb
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Models\bin\Debug\net5.0\midTerm.Models.deps.json
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Models\bin\Debug\net5.0\midTerm.Models.dll
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Models\bin\Debug\net5.0\ref\midTerm.Models.dll
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Models\bin\Debug\net5.0\midTerm.Models.pdb
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Models\bin\Debug\net5.0\midTerm.Data.dll
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Models\bin\Debug\net5.0\midTerm.Data.pdb
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Models\obj\Debug\net5.0\midTerm.Models.csprojAssemblyReference.cache
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Models\obj\Debug\net5.0\midTerm.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Models\obj\Debug\net5.0\midTerm.Models.AssemblyInfoInputs.cache
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Models\obj\Debug\net5.0\midTerm.Models.AssemblyInfo.cs
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Models\obj\Debug\net5.0\midTerm.Models.csproj.CoreCompileInputs.cache
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Models\obj\Debug\net5.0\midTerm.Models.csproj.CopyComplete
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Models\obj\Debug\net5.0\midTerm.Models.dll
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Models\obj\Debug\net5.0\ref\midTerm.Models.dll
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Models\obj\Debug\net5.0\midTerm.Models.pdb

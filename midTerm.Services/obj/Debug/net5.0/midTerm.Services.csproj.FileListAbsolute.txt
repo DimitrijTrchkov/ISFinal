@@ -1,0 +1,70 @@
+C:\repos\uacsIS\midTerm.Services\bin\Debug\net5.0\midTerm.Services.deps.json
+C:\repos\uacsIS\midTerm.Services\bin\Debug\net5.0\midTerm.Services.dll
+C:\repos\uacsIS\midTerm.Services\bin\Debug\net5.0\ref\midTerm.Services.dll
+C:\repos\uacsIS\midTerm.Services\bin\Debug\net5.0\midTerm.Services.pdb
+C:\repos\uacsIS\midTerm.Services\bin\Debug\net5.0\midTerm.Data.dll
+C:\repos\uacsIS\midTerm.Services\bin\Debug\net5.0\midTerm.Models.dll
+C:\repos\uacsIS\midTerm.Services\bin\Debug\net5.0\midTerm.Models.pdb
+C:\repos\uacsIS\midTerm.Services\bin\Debug\net5.0\midTerm.Data.pdb
+C:\repos\uacsIS\midTerm.Services\obj\Debug\net5.0\midTerm.Services.csprojAssemblyReference.cache
+C:\repos\uacsIS\midTerm.Services\obj\Debug\net5.0\midTerm.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\uacsIS\midTerm.Services\obj\Debug\net5.0\midTerm.Services.AssemblyInfoInputs.cache
+C:\repos\uacsIS\midTerm.Services\obj\Debug\net5.0\midTerm.Services.AssemblyInfo.cs
+C:\repos\uacsIS\midTerm.Services\obj\Debug\net5.0\midTerm.Services.csproj.CoreCompileInputs.cache
+C:\repos\uacsIS\midTerm.Services\obj\Debug\net5.0\midTerm.Services.csproj.CopyComplete
+C:\repos\uacsIS\midTerm.Services\obj\Debug\net5.0\midTerm.Services.dll
+C:\repos\uacsIS\midTerm.Services\obj\Debug\net5.0\ref\midTerm.Services.dll
+C:\repos\uacsIS\midTerm.Services\obj\Debug\net5.0\midTerm.Services.pdb
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Services\bin\Debug\net5.0\midTerm.Services.deps.json
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Services\bin\Debug\net5.0\midTerm.Services.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Services\bin\Debug\net5.0\ref\midTerm.Services.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Services\bin\Debug\net5.0\midTerm.Services.pdb
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Services\bin\Debug\net5.0\midTerm.Data.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Services\bin\Debug\net5.0\midTerm.Models.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Services\bin\Debug\net5.0\midTerm.Models.pdb
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Services\bin\Debug\net5.0\midTerm.Data.pdb
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Services\obj\Debug\net5.0\midTerm.Services.csprojAssemblyReference.cache
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Services\obj\Debug\net5.0\midTerm.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Services\obj\Debug\net5.0\midTerm.Services.AssemblyInfoInputs.cache
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Services\obj\Debug\net5.0\midTerm.Services.AssemblyInfo.cs
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Services\obj\Debug\net5.0\midTerm.Services.csproj.CoreCompileInputs.cache
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Services\obj\Debug\net5.0\midTerm.Services.csproj.CopyComplete
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Services\obj\Debug\net5.0\midTerm.Services.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Services\obj\Debug\net5.0\ref\midTerm.Services.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Services\obj\Debug\net5.0\midTerm.Services.pdb
+C:\Users\dimit\Downloads\2021\final\midTerm.Services\obj\Debug\net5.0\midTerm.Services.dll
+C:\Users\dimit\Downloads\2021\final\midTerm.Services\obj\Debug\net5.0\midTerm.Services.pdb
+D:\Downloads\2021 (1)\2021\final\midTerm.Services\bin\Debug\net5.0\midTerm.Services.deps.json
+D:\Downloads\2021 (1)\2021\final\midTerm.Services\bin\Debug\net5.0\midTerm.Services.dll
+D:\Downloads\2021 (1)\2021\final\midTerm.Services\bin\Debug\net5.0\ref\midTerm.Services.dll
+D:\Downloads\2021 (1)\2021\final\midTerm.Services\bin\Debug\net5.0\midTerm.Services.pdb
+D:\Downloads\2021 (1)\2021\final\midTerm.Services\bin\Debug\net5.0\midTerm.Data.dll
+D:\Downloads\2021 (1)\2021\final\midTerm.Services\bin\Debug\net5.0\midTerm.Models.dll
+D:\Downloads\2021 (1)\2021\final\midTerm.Services\bin\Debug\net5.0\midTerm.Models.pdb
+D:\Downloads\2021 (1)\2021\final\midTerm.Services\bin\Debug\net5.0\midTerm.Data.pdb
+D:\Downloads\2021 (1)\2021\final\midTerm.Services\obj\Debug\net5.0\midTerm.Services.csprojAssemblyReference.cache
+D:\Downloads\2021 (1)\2021\final\midTerm.Services\obj\Debug\net5.0\midTerm.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\2021 (1)\2021\final\midTerm.Services\obj\Debug\net5.0\midTerm.Services.AssemblyInfoInputs.cache
+D:\Downloads\2021 (1)\2021\final\midTerm.Services\obj\Debug\net5.0\midTerm.Services.AssemblyInfo.cs
+D:\Downloads\2021 (1)\2021\final\midTerm.Services\obj\Debug\net5.0\midTerm.Services.csproj.CoreCompileInputs.cache
+D:\Downloads\2021 (1)\2021\final\midTerm.Services\obj\Debug\net5.0\midTerm.Services.csproj.CopyComplete
+D:\Downloads\2021 (1)\2021\final\midTerm.Services\obj\Debug\net5.0\midTerm.Services.dll
+D:\Downloads\2021 (1)\2021\final\midTerm.Services\obj\Debug\net5.0\ref\midTerm.Services.dll
+D:\Downloads\2021 (1)\2021\final\midTerm.Services\obj\Debug\net5.0\midTerm.Services.pdb
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Services\bin\Debug\net5.0\midTerm.Services.deps.json
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Services\bin\Debug\net5.0\midTerm.Services.dll
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Services\bin\Debug\net5.0\ref\midTerm.Services.dll
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Services\bin\Debug\net5.0\midTerm.Services.pdb
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Services\bin\Debug\net5.0\midTerm.Data.dll
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Services\bin\Debug\net5.0\midTerm.Models.dll
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Services\bin\Debug\net5.0\midTerm.Models.pdb
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Services\bin\Debug\net5.0\midTerm.Data.pdb
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Services\obj\Debug\net5.0\midTerm.Services.csprojAssemblyReference.cache
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Services\obj\Debug\net5.0\midTerm.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Services\obj\Debug\net5.0\midTerm.Services.AssemblyInfoInputs.cache
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Services\obj\Debug\net5.0\midTerm.Services.AssemblyInfo.cs
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Services\obj\Debug\net5.0\midTerm.Services.csproj.CoreCompileInputs.cache
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Services\obj\Debug\net5.0\midTerm.Services.csproj.CopyComplete
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Services\obj\Debug\net5.0\midTerm.Services.dll
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Services\obj\Debug\net5.0\ref\midTerm.Services.dll
+D:\Downloads\DimitrijTrchkov\2021\final\midTerm.Services\obj\Debug\net5.0\midTerm.Services.pdb
